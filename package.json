@@ -1,0 +1,26 @@
+{
+  "name": "hexlet-js-testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlizzardAZ/hexlet-js-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlizzardAZ/hexlet-js-testing/issues"
+  },
+  "type": "module",
+
+  "homepage": "https://github.com/BlizzardAZ/hexlet-js-testing#readme",
+  "description": ""
+}
+
+
